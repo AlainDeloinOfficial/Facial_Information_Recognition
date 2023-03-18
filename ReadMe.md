@@ -1,4 +1,4 @@
-# Face Information Recognition
+# Face Information Classification
 
 Data-set to copy in the root of the project:
 https://github.com/JDAI-CV/lapa-dataset
